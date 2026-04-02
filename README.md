@@ -5,5 +5,7 @@
     <li>3 jan 2026 - paint problem and 1 sql</li>
     <li>4 jan 2026 - solved divisor problem had to learn basic code of divisor did nothing just attempted daly challenge thing</li>
     <li>5 jan 2026- did 3 sum problem had issues to deal with n^3 complexity used llm for hints anddddddddd solved max matrix sum ques</li>
+    <li>2nd April 2026- did a few problems in past few weeks I wasnt consistent so I couldnt solve properly or commit so here's the ques for 2md april Maximum Amount of Money Robot Can Earn
+</li>
   </ol>
 </html>
